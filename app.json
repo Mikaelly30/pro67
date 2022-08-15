@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mikaellylara.snackfbf48986578d4a50996fa5499d243656"
     },
     "web": {
       "favicon": "./assets/favicon.png"
